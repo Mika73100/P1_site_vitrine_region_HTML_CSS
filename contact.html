@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Les incontournables de Savoie</title>
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/contact.css">
+</head>
+<body>
+
+<!---------------- nav en dessous ok ------------->
+
+
+<div class="wrapper">
+<header>
+	<nav>
+		<ul class="flex">
+			<li><a href="file:///C:/Users/micha/Desktop/sitewe/index.html">Accueil</a></li>
+			<li><a href="file:///C:/Users/micha/Desktop/sitewe/page2.html">Aix-les-bains</a></li>
+			<li><a href="file:///C:/Users/micha/Desktop/sitewe/page3.html">St Baldoph</a></li>
+			<li><a href="file:///C:/Users/micha/Desktop/sitewe/page4.html">Chambery</a></li>
+			<li><a href="file:///C:/Users/micha/Desktop/sitewe/contact.html">Contact</a></li>
+			<li class="last"><a href="">⌕</a></li>
+		</ul>
+	</nav>
+	
+	<a class="btn-logo" title="Retour à l'accueil">
+		<img class="logonav" src="img/logo.png" alt="logo de la savoie">
+	</a>
+
+</header>
+
+<!-------------------------------------------------->
+
+
+<main>
+	<section class="intro">
+		<div class="Contactez-nous">
+		<h1> <span class="blue-txt">Contactez-nous !</span><span class="sous-titre"></span></h1>
+		<p class="amour">Un problème, une question, envie de nous envoyer un message d’amour ?<br> N’hésitez pas à utiliser ce formulaire pour prendre contact avec nous !</p>
+
+	<!-----------------------------ici le formulaire -------------------------->
+
+	
+		<form action="/page-traitement-donnees" method="post">
+		<div>
+		<label for="nom">Votre nom</label>
+		<input type="text" id="nom" name="nom" placeholder="Martin" required>
+		</div>
+		<div>
+		<label for="email">Votre e-mail</label>
+		<input type="email" id="email" name="email" placeholder="monadresse@mail.com" required>
+		</div>
+		<div>
+		<label for="sujet">Quel est le sujet de votre message ?</label>
+		<select name="sujet" id="sujet" required>
+		<option value="" disabled selected hidden>Choisissez le sujet de votre message</option>
+		<option value="probleme-compte">Problème avec mon compte</option>
+		<option value="question-produit">Question à propos d’un produit</option>
+		<option value="suivi-commande">Suivi de ma commande</option>
+		<option value="autre">Autre...</option>
+		</select>
+		</div>
+		<div>
+		<label for="message">Votre message</label>
+		<textarea id="message" name="message" placeholder="Bonjour, je vous contacte car...." required></textarea>
+		</div>
+		<div>
+		<button type="submit">Envoyer mon message</button>
+		</div>
+		</form>
+		</div>
+
+	--->
+
+</section>
+
+<section class="flex premium1">
+
+	<div class="col2">
+		
+	</div>
+
+	<div class="col2">
+		<h2></h2>
+		
+	</div>
+</section>
+
+<section class="flex premium2">
+	<div class="col2">
+		<h2></h2>
+
+	</div>
+	
+	<div class="col2">
+		
+	</div>
+</section>
+
+
+
+
+<!----------- ici la partie picto---ok--------->
+
+
+
+<section class="flex stat">
+	<div class="col3">
+		<img src="img/picto-parking.png" alt="picto-parking">
+		<h2>960
+		<span class="sous-titre">places de parking</span></h2>
+	</div>
+	<div class="col3">
+		<img src="img/pictobar.png" alt="picto-bar">
+		<h2>180
+		<span class="sous-titre">Bar et restaurant</span></h2>
+	</div>
+	<div class="col3">
+		<img src="img/pictohotel.png" alt="picto-hotel">
+		<h2>5987
+		<span class="sous-titre">Chambre d'hôtel</span></h2>
+	</div>
+</section>
+</main>
+
+
+
+<!--------footer----------------ok------------->
+
+<footer>
+	<div class="flex">
+		<div class="col3">	
+			<h2>Contact</h2>
+			<p>17 rue du tour de l’eau<br>
+			73100 Aix-les-bains<br>
+			+33 04 76 40 10 10</p>
+		</div>
+
+		<div class="col3">
+			<h2>Horaires</h2>
+			<p>Tous les jours : 10h30 - 19h00<br>
+			Lundi : 16h30 - 19h00</p>
+		</div>
+
+		<div class="col3">
+			<h2>Infos</h2>
+			<ul>
+				<li><a href="">recrutement</a></li>
+				<li><a href="">mentions légales</a></li>
+				<li><a href="">confidentialité</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<img class="logofooter" src="img/logo.png" alt="logo de la savoie">
+
+	<p class="credits">© Mika “Mikadesign“</p>
+
+
+</footer>
+</div>
+</body>
+</html>
