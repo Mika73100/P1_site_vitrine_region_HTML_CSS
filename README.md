@@ -25,7 +25,7 @@
         <img src="img/287shots_so.png">
         <img src="img/30shots_so.png">
         <img src="img/743shots_so.png">
-</div>
+</div><br><br>
 
 
 
