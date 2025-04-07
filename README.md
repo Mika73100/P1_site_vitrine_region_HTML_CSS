@@ -8,8 +8,14 @@
         <h2>🛸 Welcome to my space ! 🛸</h2>
 </div><br><br>
 
+
+
+
 <div align="center">
-        <img src="img/giphy.gif">
+        <img src="img/287shots_so.png">
+        <img src="img/30shots_so.png">
+        <img src="img/642shots_so.png">
+        <img src="img/743shots_so.png">
 </div>
 
 
