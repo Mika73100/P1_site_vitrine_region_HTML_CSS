@@ -1,8 +1,5 @@
-
-<br><br>
-
 <div align="center">
-        <h2> Création d'un site HTML | CSS ! 🛸</h2>
+        <h2> Création d'un site HTML | CSS ! </h2>
 </div><br><br>
 
 <div align="center"><br><br>
