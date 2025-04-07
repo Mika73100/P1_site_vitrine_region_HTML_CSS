@@ -1,20 +1,17 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-barreca/)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael-73@live.fr)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/michaelbarreca)
 
 <br><br>
 
 <div align="center">
-        <h2>🛸 Welcome to my space ! 🛸</h2>
+        <h2> Création d'un site HTML | CSS ! 🛸</h2>
 </div><br><br>
 
 
 
 
 <div align="center">
+        <img src="img/642shots_so.png">
         <img src="img/287shots_so.png">
         <img src="img/30shots_so.png">
-        <img src="img/642shots_so.png">
         <img src="img/743shots_so.png">
 </div>
 
