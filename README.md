@@ -1,6 +1,6 @@
 <div align="center">
         <h2> Création d'un site HTML | CSS ! </h2>
-</div><br><br>
+</div><br>
 
 <div align="center"><br><br>
         <h2>💻 Programming 🔝</h2><br><br>
